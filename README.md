@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # bootstrap-portfolio
 Portfolio created using Bootstrap
 
