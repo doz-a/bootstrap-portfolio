@@ -8,7 +8,7 @@ site: https://doz-a.github.io/bootstrap-portfolio/
 Portfolio created using Bootstrap
 
 Hi my name is Miguel De Los Santos
-WELCOME TO PIMP MY CODE
+WELCOME TO MY CODE
 -------------------------
 
 
