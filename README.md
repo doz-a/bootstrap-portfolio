@@ -19,7 +19,7 @@ WELCOME TO PIMP MY CODE
 ### 
 -A galaxy background in the main Card with original photo stamps to advertise the original Art creator! Check out his mixtape, it's fire!
 ### 
--A footer at the very bottom of the page! Nobody will ever see it but that's how we do it at pimp my code!
+-A footer at the very bottom of the page! Nobody will ever see it but that's how we do it!!
 -------------------------
 
 ### Index/About Me
